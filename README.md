@@ -30,8 +30,9 @@ This is a simple Tic Tac Toe game implemented in Python using the Pygame library
    python main.py
    ```
 2. Choose a game mode (Player vs Player or Player vs AI) by pressing the 'g' key.
-3. Make moves by clicking on the desired grid squares during your turn.
-4. Enjoy the game and have fun!
+3. You can reset the game using the 'r' key.
+4. Make moves by clicking on the desired grid squares during your turn.
+5. Enjoy the game and have fun!
 
 ## Credits
 - This game was created by [Ubaid Abbas](https://github.com/ubaid2751).
